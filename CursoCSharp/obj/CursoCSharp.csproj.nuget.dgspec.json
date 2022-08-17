@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Frederico.Zanitti\\Documents\\Cursos\\Udemy\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Frederico.Zanitti\\Documents\\Cursos\\Udemy\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Frederico.Zanitti\\Documents\\Cursos\\Udemy\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\Frederico.Zanitti\\Documents\\Cursos\\Udemy\\C#\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\Frederico.Zanitti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Frederico.Zanitti\\Documents\\Cursos\\Udemy\\C#\\CursoCSharp\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Frederico.Zanitti\\AppData\\Roaming\\NuGet\\NuGet.Config",
