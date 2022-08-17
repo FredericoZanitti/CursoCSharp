@@ -28,3 +28,6 @@ C:\Users\Frederico.Zanitti\source\repos\CursoCSharp\CursoCSharp\CursoCSharp\obj\
 C:\Users\Frederico.Zanitti\source\repos\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
 C:\Users\Frederico.Zanitti\source\repos\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
 C:\Users\Frederico.Zanitti\source\repos\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+C:\Users\Frederico.Zanitti\source\repos\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\Frederico.Zanitti\source\repos\CursoCSharp\CursoCSharp\CursoCSharp\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\Frederico.Zanitti\source\repos\CursoCSharp\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CopyComplete

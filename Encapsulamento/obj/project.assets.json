@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Encapsulamento/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Encapsulamento/1.0.0": {
-      "type": "project",
-      "path": "../Encapsulamento/Encapsulamento.csproj",
-      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Encapsulamento >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Frederico.Zanitti\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+      "projectName": "Encapsulamento",
+      "projectPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\Frederico.Zanitti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\obj\\",
+      "outputPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Frederico.Zanitti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

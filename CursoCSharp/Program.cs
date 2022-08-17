@@ -31,6 +31,7 @@ namespace CursoCSharp {
                 {"Igualdade - Coleções", Igualdade.Executar},
                 {"Dicionários - Coleções", Dicionarios.Executar},
                 {"Heranças - Coleção OO", Heranca.Executar},
+                {"Encapsulamento - Coleção OO", OO.Encapsulamento.Executar},
             });
 
             central.SelecionarEExecutar();
