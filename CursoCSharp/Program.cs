@@ -32,6 +32,9 @@ namespace CursoCSharp {
                 {"Dicionários - Coleções", Dicionarios.Executar},
                 {"Heranças - Coleção OO", Heranca.Executar},
                 {"Encapsulamento - Coleção OO", OO.Encapsulamento.Executar},
+                {"Polimorfismo - Coleção OO", Polimorfismo.Executar},
+                {"Abstrata - Coleção OO", Abstrata.Executar},
+                {"Interface - Coleção OO", Interface.Executar},
             });
 
             central.SelecionarEExecutar();
