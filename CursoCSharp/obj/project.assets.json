@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Frederico.Zanitti\\.nuget\\packages\\": {}
+    "C:\\Users\\fredz\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\fredz\\Source\\Repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
-      "packagesPath": "C:\\Users\\Frederico.Zanitti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\obj\\",
+      "projectPath": "C:\\Users\\fredz\\Source\\Repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "packagesPath": "C:\\Users\\fredz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fredz\\Source\\Repos\\CursoCSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Frederico.Zanitti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fredz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
+            "C:\\Users\\fredz\\Source\\Repos\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
+              "projectPath": "C:\\Users\\fredz\\Source\\Repos\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj"
             }
           }
         }
@@ -74,8 +79,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -84,7 +88,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
