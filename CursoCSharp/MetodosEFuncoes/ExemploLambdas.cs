@@ -21,7 +21,7 @@ namespace CursoCSharp.MetodosEFuncoes
 
             Console.WriteLine(jogarDado());
 
-            Func<int, int, int, string> formatarData = (dia, mes, ano) => String.Format("{0:D2}/{1:D2}/{2:D2}", dia, mes, ano);
+            Func<int, int, int, string> formatarData = (dia, mes, ano) => String.Format("{0:D2}/{1:D2}/{D2}", dia, mes, ano);
             Console.WriteLine();
 
         }

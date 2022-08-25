@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ja7q8pIZa6Et/mY4oQttKPdQLLByDm2SAXXTi+XFQfQIy19stZIdHXgJ3ko6h8NvkTi4a+vKYbfCoEPN8pTqEA==",
+<<<<<<< HEAD
+  "dgSpecHash": "uhMhdnMop8z1zH1S+ce1LrYFRFXc8qvgNC5+bkr3op9yOi+nR302WvVMK7Q3k/hIjre7Ef/T2uKMuiZ9csJdeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Frederico.Zanitti\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+  "projectFilePath": "C:\\Users\\aluga.com\\source\\repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+=======
+  "dgSpecHash": "l6HVdtrSzq0Oxms5p87EIIH8eXbGAW8ZH2WS7ceOx43t/IZSKYoA5nMwmt0mFpW7rV3UekLSFbzxQ64qRCwYJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fredz\\Source\\Repos\\CursoCSharp\\CursoCSharp\\CursoCSharp.csproj",
+>>>>>>> c3b765b9399e4a2c3afaf86aabb38945778ba3e8
   "expectedPackageFiles": [],
   "logs": []
 }
