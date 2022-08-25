@@ -7,6 +7,7 @@ using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Coleções;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
 
 namespace CursoCSharp {
     class Program {
@@ -37,6 +38,9 @@ namespace CursoCSharp {
                 {"Abstrata - Coleção OO", Abstrata.Executar},
                 {"Interface - Coleção OO", Interface.Executar},
                 {"Lambda - Metodos e Funcoes", ExemploLambdas.Executar},
+                {"Lambda com Delegate - Metodos e Funcoes", LambdasDelegate.Executar},
+                {"Métodos de extensão - Metodos e Funcoes", MetodosDeExtensao.Executar},
+                {"Primeria exceção - Exceções", PrimeiraExcecao.Executar},
             });
 
             central.SelecionarEExecutar();
